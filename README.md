@@ -28,6 +28,12 @@ In this case you can send us either `.html` or `.ipynb` file.
 
 #### Python
 
+File 6nomads_AutoML.ipynb
+
+##### Advantages
+
+##### Problems
+
 #### R
 
 ### Classical machine learning
